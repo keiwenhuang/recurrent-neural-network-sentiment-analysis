@@ -1,7 +1,7 @@
 # recurrent-neural-network-sentiment-analysis
 
 ## Project Overview
-This project implements a recurrent neural network approach to perform sentiment analysis on data from RateMyProfessor, a college professor rating website.
+This group project implements a recurrent neural network approach to perform sentiment analysis on data from RateMyProfessor, a college professor rating website.
 
 ## Data Sources
 - Dr. Jibo He's sample dataset
